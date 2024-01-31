@@ -4,6 +4,6 @@ title: Contact Me
 permalink: /Conntact/
 ---
 
-project A
+Reach me by Email
 
-project B
+Here is my Resume

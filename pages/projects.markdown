@@ -3,6 +3,14 @@ layout: page
 title: Projects
 ---
 
-project A
+Active Projects
 
-project B
+Google Distraction Blocker
+
+Old projects
+
+Eco DC
+
+Flatiorn projects
+
+Reccomendation system Project
