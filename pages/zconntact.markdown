@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Projects
+title: Contact Me
+permalink: /Conntact/
 ---
 
 project A

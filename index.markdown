@@ -13,5 +13,5 @@ To learn more about what I'm doing, and what I've done you can check out
 
 [Thinking outside the box]({% link pages/box.markdown %}) 
 
-[difrent link to ProjectsB, and other works]({% link pages/projects.markdown %})
+[My Projects]({% link pages/projects.markdown %})
 
