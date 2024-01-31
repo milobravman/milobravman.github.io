@@ -11,7 +11,7 @@ My name is Milo Bravman and I'm a recent college graduate and computer scientist
 
 To learn more about what I'm doing, and what I've done you can check out
 
-[Thinking outside the box]({% link box.markdown %}) 
+[Thinking outside the box]({% link pages/box.markdown %}) 
 
-[Projects, and other works]({% link a.markdown %})
+[difrent link to ProjectsB, and other works]({% link pages/projects.markdown %})
 
