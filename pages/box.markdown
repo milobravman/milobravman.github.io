@@ -7,7 +7,7 @@ permalink: /Box/
 Way back in 2019 I had a journal entry that simply said don't use your phone for the first 30 minutes after waking up. Almost 5 Years After that I now have an elaborate system to try to control how I use technology. I see this is a symptom of a bigger issue in Modern Life. That digital technology is so compelling it's become dominant and addictive in how we live our day-to-day lives and has vast impacts on everything from one's personal well-being to how people are elected to office.
 
 
-Subtitle : The orgin was jornaling
+#### The Orgin Was Jornaling
 
 While in college at Santa Cruz I experienced the infamous sophomore slump, I couldn’t get my work done, I had trouble getting out of bed, ect. I used that christmas break to regroup and I started journaling for the first time in my life. That journal served as a diary primary, but also became the origin of me becoming explicitly aware of how I use digital technology. 
 
