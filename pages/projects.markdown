@@ -17,7 +17,7 @@ Lets users set a timer on a spesfic page. It will play a success noise if they s
 
 A react and Express website for Evormental information spesfic to DC see [here](https://milobravman.github.io/EcoDC/)
 
-#### Flatiorn projects 
+#### Flatiron projects 
 
 All various Ruby on Rails, Javascript, and React projects
 
