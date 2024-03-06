@@ -4,6 +4,10 @@ title: Projects
 ---
 
 #### Distraction blocker 
+
+![image](../img/icon-48.png){: style="float: left"}
+<!-- <img src="../img/icon-48.png" alt="Italian Trulli"> -->
+
 Lets users block website that they consider helpful to block. For me this includes websites like Youtube, and chess.com.  see it in the [chrome extention store](https://chromewebstore.google.com/detail/distraction-blocker/gigiekecpijokpijbabheahcnpfchhga?hl=en&authuser=0) or on [github](https://github.com/milobravman/Focus-timer/tree/main/Publishing/Chrome-distraction-blocker)
 
 
@@ -15,7 +19,9 @@ Lets users set a timer on a spesfic page. It will play a success noise if they s
 
 #### Eco DC
 
-A react and Express website for Evormental information spesfic to DC see [here](https://milobravman.github.io/EcoDC/)
+
+
+A React and Express website for evormental information spesfic to DC see [here](https://milobravman.github.io/EcoDC/)
 
 #### Flatiron projects 
 
@@ -23,4 +29,4 @@ All various Ruby on Rails, Javascript, and React projects
 
 #### Reccomendation system Project
 
-Learned about the jacquard formula, and how it can be used to make a very simple recomendation engine
+Learned about the Jacquard formula, and how it can be used to make a very simple recomendation engine.
