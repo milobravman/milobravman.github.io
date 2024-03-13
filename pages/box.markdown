@@ -16,14 +16,14 @@ Way back in 2019 I had a journal entry that simply said don’t use your phone f
 ![](/img/jornal-page.jpg)
 *The first of many times I wrote some version of “Don’t use the phone or computer right after waking up”*
 
-Let me be clear, journaling does not work as an effective way to have less screen time whether that’s on the phone or on the computer. It can be useful for a variety of other things. This photo is ripped from the first few pages of my first round 2019. I have functionally rewritten “Don’t use the phone or computer right after waking up” maybe 50 times in journals I’ve had between 2019 and 2022 without it making a lasting difference. The problem is the journal can’t actually tell me to put my phone down.
+Let me be clear, journaling does not work as an effective way to have less screen time whether that’s on the phone or on the computer. It can be useful for a variety of other things. This photo is ripped from the first few pages of my first journal, from around 2019. I have functionally rewritten “Don’t use the phone or computer right after waking up” maybe 50 times in journals I’ve had between 2019 and 2022 without it making a lasting difference. The problem is the journal can’t actually tell me to put my phone down.
 
 #### Traps V.S Good ideas
 
 ![](/img/trap-good_idea.jpg)
 *My 5th journal. I attached velcro to the front of it and the back of my phone to try to use the pull to my phone as a reminder to use my journal first*
 
-My journal cannot make me put my phone down, but maybe my phone can make me pick my journal up. Attaching my phone to my journal using velcro attempts to make the phone and the journal one object, where I could not use my phone without using my journal. This, like many of my early attempts to connect a method of controlling my left with a device that has a powerful hold over my life, eventually failed because it took too long to set up, while also being too easy to take apart. The full chapter will go through the many techniques and methods I experimented with and review what worked and what did not.
+My journal cannot make me put my phone down, but maybe my phone can make me pick my journal up. Attaching my phone to my journal using velcro attempts to make the phone and the journal one object, where I could not use my phone without using my journal. This, like many of my early attempts to connect a method of controlling my life with a device that has a powerful hold over my life, eventually failed because it took too long to set up, while also being too easy to take apart. The full chapter will go through the many techniques and methods I experimented with and review what worked and what did not.
 
 #### My First Box
 
