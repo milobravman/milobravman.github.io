@@ -6,7 +6,7 @@ permalink: /Conntact/
 
 My middle name is Bravman, so while my legal name is Milo Lynch there are times where I have gone by Milo Bravman but that is still me. 
 
-Reach me by Email MiloBravman20@gmail.com
+Reach me by email MiloBravman20@gmail.com
 
 Here is my [Resume](../assests/resume.pdf){:target="_blank"}
 
