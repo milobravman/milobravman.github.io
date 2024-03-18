@@ -22,7 +22,7 @@ Let me be clear, journaling can be useful for a variety of things, but it does n
 ![](/img/trap-good_idea.jpg)
 *I used Velcro to attach my phone to the front of my fifth journal.*
 
-My journal could not make me put my phone down, but maybe my phone could make me pick the journal up? Like many of my early attempts to connect a method of control with a device that has a powerful hold over me, this system eventually failed because it took too long to set up, while also being too easy to take apart. Click here for the many techniques and methods I experimented with and my review of what worked and what did not.
+My journal could not make me put my phone down, but maybe my phone could make me pick the journal up? Like many of my early attempts to connect a method of control with a device that has a powerful hold over me, this system eventually failed because it took too long to set up, while also being too easy to take apart. The full chapter will outline the many techniques and methods I experimented with and my review of what worked and what did not.
 
 #### My First Box
 
