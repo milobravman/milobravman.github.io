@@ -15,18 +15,18 @@ Lets users block any website that they consider helpful to block. For me this in
 Lets users set a timer on a spesfic page. It will play a success noise if they stay for the time the set, and a failure noise if they leave before then see it in the [chrome extention store](https://chromewebstore.google.com/detail/agency-assistant/pbcoffnbffloddpmembnpojpngdpgcbo?hl=en&authuser=0) or on [github](https://github.com/milobravman/Focus-timer/tree/main/Old/agencyAssistant1.2).
 
 
-### Old projects
+### Older Projects
 
 #### Eco DC
 
 
 
-A React and Express website for evormental information spesfic to DC see [here](https://milobravman.github.io/EcoDC/).
+A React and Express website for environmental information for DC residents see [here](https://milobravman.github.io/EcoDC/).
 
-#### Flatiron projects 
+#### Flatiron Projects 
 
-All various Ruby on Rails, Javascript, and React projects.
+Various Ruby on Rails, Javascript, and React projects.
 
-#### Reccomendation system Project
+#### Recommendation System Project
 
 Learned about the Jacquard formula, and how it can be used to make a very simple recomendation engine.
