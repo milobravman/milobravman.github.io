@@ -29,4 +29,4 @@ Various Ruby on Rails, Javascript, and React projects.
 
 #### Recommendation System Project
 
-Learned about the Jacquard formula, and how it can be used to make a very simple recomendation engine.
+Made a very simple recommendation engine based on the Jacquard formula.
