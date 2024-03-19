@@ -12,7 +12,7 @@ Lets users block any website that they consider helpful to block. For me this in
 
 
 #### Agency Assistant
-Lets users set a timer on a spesfic page. It will play a success noise if they stay for the time the set, and a failure noise if they leave before then see it in the [chrome extention store](https://chromewebstore.google.com/detail/agency-assistant/pbcoffnbffloddpmembnpojpngdpgcbo?hl=en&authuser=0) or on [github](https://github.com/milobravman/Focus-timer/tree/main/Old/agencyAssistant1.2).
+Lets users set a timer on a specific page. It will play a success noise if they stay for the time the set, and a failure noise if they leave before then see it in the [chrome extention store](https://chromewebstore.google.com/detail/agency-assistant/pbcoffnbffloddpmembnpojpngdpgcbo?hl=en&authuser=0) or on [github](https://github.com/milobravman/Focus-timer/tree/main/Old/agencyAssistant1.2).
 
 
 ### Older Projects
