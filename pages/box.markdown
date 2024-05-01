@@ -15,7 +15,7 @@ Way back in 2019 I started trying to control how I use digital technology by wri
 ![](/img/jornal-page.jpg)
 *The first of many times I wrote some version of “Don’t use the phone or computer right after waking up.”*
 
-Let me be clear, journaling can be useful for a variety of things, but it does not work to control screen time. It. This photo is ripped from the first few pages of my first journal, and I have rewritten this rule at least 50 times in the journals I’ve had since without ever made a lasting difference. The problem is my journal can’t actually tell me to put my phone down.
+Let me be clear, journaling can be useful for a variety of things, but it does not work to control screen time. This photo is ripped from the first few pages of my first journal, and I have rewritten this rule at least 50 times in the journals I’ve had since without ever made a lasting difference. The problem is my journal can’t actually tell me to put my phone down.
 
 #### Traps V.S Good ideas
 
